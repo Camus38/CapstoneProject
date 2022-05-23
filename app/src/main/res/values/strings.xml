@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zipkok</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner_category">
+        <item>전체</item>
+        <item>제목</item>
+        <item>내용</item>
+        <item>닉네임</item>
+    </string-array>
+</resources>
+

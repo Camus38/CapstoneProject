@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230797775347",
+    "project_id": "capstoneday1zipkok",
+    "storage_bucket": "capstoneday1zipkok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230797775347:android:ce78a5686e1fa79a664286",
+        "android_client_info": {
+          "package_name": "com.hansung2022.capstoneday1zipkok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230797775347-8usobnqo3giskvcl97gq3bitbrqgvsua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVXt3GpdgT75-IAASwWveKvCjFnWi2NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230797775347-8usobnqo3giskvcl97gq3bitbrqgvsua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
